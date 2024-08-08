@@ -1,0 +1,362 @@
+[buildPlans.Iosevka]
+family = "Iosevka"
+spacing = "normal"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.IosevkaCondensed]
+family = "IosevkaCondensed"
+spacing = "normal"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.IosevkaExpanded]
+family = "IosevkaExpanded"
+spacing = "normal"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.Iosevka.variants.design]
+capital-a = "straight-serifless"
+capital-b = "standard-serifless"
+capital-c = "serifless"
+capital-d = "standard-serifless"
+capital-e = "serifless"
+capital-g = "toothless-rounded-serifless-hooked"
+capital-h = "serifless"
+capital-i = "serifed"
+capital-j = "serifed"
+capital-k = "symmetric-touching-serifless"
+capital-m = "hanging-serifless"
+capital-n = "standard-serifless"
+capital-p = "closed-serifless"
+capital-q = "crossing"
+capital-r = "straight-serifless"
+capital-s = "serifless"
+capital-t = "serifless"
+capital-u = "toothless-rounded-serifless"
+capital-w = "straight-serifless"
+capital-x = "straight-serifless"
+capital-y = "straight-serifless"
+capital-z = "straight-serifless-with-horizontal-crossbar"
+a = "double-storey-serifless"
+b = "toothed-serifless"
+f = "flat-hook-serifless"
+g = "double-storey-open"
+h = "straight-serifless"
+i = "hooky"
+j = "flat-hook-serifless"
+k = "straight-serifless"
+l = "hooky"
+m = "serifless"
+n = "straight-serifless"
+p = "eared-serifless"
+q = "diagonal-tailed-serifless"
+r = "compact-serifless"
+t = "flat-hook-short-neck2"
+v = "straight-serifless"
+w = "straight-flat-top-serifless"
+x = "straight-serifless"
+y = "straight-serifless"
+zero = "tall-slashed"
+two = "straight-neck-serifless"
+three = "flat-top-serifless"
+four = "semi-open-non-crossing-serifless"
+five = "oblique-flat-serifless"
+seven = "straight-serifless"
+eight = "crossing"
+diacritic-dot = "square"
+punctuation-dot = "round"
+tilde = "low"
+asterisk = "hex-mid"
+underscore = "high"
+caret = "medium"
+ascii-grave = "straight"
+ascii-single-quote = "straight"
+paren = "normal"
+brace = "curly"
+guillemet = "straight"
+number-sign = "upright"
+ampersand = "upper-open"
+at = "threefold"
+dollar = "through"
+percent = "dots"
+bar = "force-upright"
+pilcrow = "low"
+lig-neq = "more-slanted"
+lig-equal-chain = "with-notch"
+lig-hyphen-chain = "with-notch"
+lig-plus-chain = "without-notch"
+lig-double-arrow-bar = "without-notch"
+lig-single-arrow-bar = "without-notch"
+
+[buildPlans.Iosevka.widths.Normal]
+shape = 515
+menu = 5
+css = "normal"
+
+[buildPlans.Iosevka.weights.Thin]
+shape = 100
+menu = 100
+css = 100
+
+[buildPlans.Iosevka.weights.ExtraLight]
+shape = 200
+menu = 200
+css = 200
+
+[buildPlans.Iosevka.weights.Light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.Iosevka.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.Iosevka.weights.Medium]
+shape = 500
+menu = 500
+css = 500
+
+[buildPlans.Iosevka.weights.SemiBold]
+shape = 600
+menu = 600
+css = 600
+
+[buildPlans.Iosevka.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.IosevkaCondensed.variants.design]
+capital-a = "straight-serifless"
+capital-b = "standard-serifless"
+capital-c = "serifless"
+capital-d = "standard-serifless"
+capital-e = "serifless"
+capital-g = "toothless-rounded-serifless-hooked"
+capital-h = "serifless"
+capital-i = "serifed"
+capital-j = "serifed"
+capital-k = "symmetric-touching-serifless"
+capital-m = "hanging-serifless"
+capital-n = "standard-serifless"
+capital-p = "closed-serifless"
+capital-q = "crossing"
+capital-r = "straight-serifless"
+capital-s = "serifless"
+capital-t = "serifless"
+capital-u = "toothless-rounded-serifless"
+capital-w = "straight-serifless"
+capital-x = "straight-serifless"
+capital-y = "straight-serifless"
+capital-z = "straight-serifless-with-horizontal-crossbar"
+a = "double-storey-serifless"
+b = "toothed-serifless"
+f = "flat-hook-serifless"
+g = "double-storey-open"
+h = "straight-serifless"
+i = "hooky"
+j = "flat-hook-serifless"
+k = "straight-serifless"
+l = "hooky"
+m = "serifless"
+n = "straight-serifless"
+p = "eared-serifless"
+q = "diagonal-tailed-serifless"
+r = "compact-serifless"
+t = "flat-hook-short-neck2"
+v = "straight-serifless"
+w = "straight-flat-top-serifless"
+x = "straight-serifless"
+y = "straight-serifless"
+zero = "tall-slashed"
+two = "straight-neck-serifless"
+three = "flat-top-serifless"
+four = "semi-open-non-crossing-serifless"
+five = "oblique-flat-serifless"
+seven = "straight-serifless"
+eight = "crossing"
+diacritic-dot = "square"
+punctuation-dot = "round"
+tilde = "low"
+asterisk = "hex-mid"
+underscore = "high"
+caret = "medium"
+ascii-grave = "straight"
+ascii-single-quote = "straight"
+paren = "normal"
+brace = "curly"
+guillemet = "straight"
+number-sign = "upright"
+ampersand = "upper-open"
+at = "threefold"
+dollar = "through"
+percent = "dots"
+bar = "force-upright"
+pilcrow = "low"
+lig-neq = "more-slanted"
+lig-equal-chain = "with-notch"
+lig-hyphen-chain = "with-notch"
+lig-plus-chain = "without-notch"
+lig-double-arrow-bar = "without-notch"
+lig-single-arrow-bar = "without-notch"
+
+[buildPlans.IosevkaCondensed.widths.Normal]
+shape = 500
+menu = 3
+css = "normal"
+
+[buildPlans.IosevkaCondensed.weights.Thin]
+shape = 100
+menu = 100
+css = 100
+
+[buildPlans.IosevkaCondensed.weights.ExtraLight]
+shape = 200
+menu = 200
+css = 200
+
+[buildPlans.IosevkaCondensed.weights.Light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.IosevkaCondensed.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.IosevkaCondensed.weights.Medium]
+shape = 500
+menu = 500
+css = 500
+
+[buildPlans.IosevkaCondensed.weights.SemiBold]
+shape = 600
+menu = 600
+css = 600
+
+[buildPlans.IosevkaCondensed.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.IosevkaExpanded.variants.design]
+capital-a = "straight-serifless"
+capital-b = "standard-serifless"
+capital-c = "serifless"
+capital-d = "standard-serifless"
+capital-e = "serifless"
+capital-g = "toothless-rounded-serifless-hooked"
+capital-h = "serifless"
+capital-i = "serifed"
+capital-j = "serifed"
+capital-k = "symmetric-touching-serifless"
+capital-m = "hanging-serifless"
+capital-n = "standard-serifless"
+capital-p = "closed-serifless"
+capital-q = "crossing"
+capital-r = "straight-serifless"
+capital-s = "serifless"
+capital-t = "serifless"
+capital-u = "toothless-rounded-serifless"
+capital-w = "straight-serifless"
+capital-x = "straight-serifless"
+capital-y = "straight-serifless"
+capital-z = "straight-serifless-with-horizontal-crossbar"
+a = "double-storey-serifless"
+b = "toothed-serifless"
+f = "flat-hook-serifless"
+g = "double-storey-open"
+h = "straight-serifless"
+i = "hooky"
+j = "flat-hook-serifless"
+k = "straight-serifless"
+l = "hooky"
+m = "serifless"
+n = "straight-serifless"
+p = "eared-serifless"
+q = "diagonal-tailed-serifless"
+r = "compact-serifless"
+t = "flat-hook-short-neck2"
+v = "straight-serifless"
+w = "straight-flat-top-serifless"
+x = "straight-serifless"
+y = "straight-serifless"
+zero = "tall-slashed"
+two = "straight-neck-serifless"
+three = "flat-top-serifless"
+four = "semi-open-non-crossing-serifless"
+five = "oblique-flat-serifless"
+seven = "straight-serifless"
+eight = "crossing"
+diacritic-dot = "square"
+punctuation-dot = "round"
+tilde = "low"
+asterisk = "hex-mid"
+underscore = "high"
+caret = "medium"
+ascii-grave = "straight"
+ascii-single-quote = "straight"
+paren = "normal"
+brace = "curly"
+guillemet = "straight"
+number-sign = "upright"
+ampersand = "upper-open"
+at = "threefold"
+dollar = "through"
+percent = "dots"
+bar = "force-upright"
+pilcrow = "low"
+lig-neq = "more-slanted"
+lig-equal-chain = "with-notch"
+lig-hyphen-chain = "with-notch"
+lig-plus-chain = "without-notch"
+lig-double-arrow-bar = "without-notch"
+lig-single-arrow-bar = "without-notch"
+
+[buildPlans.IosevkaExpanded.widths.Normal]
+shape = 600
+menu = 7
+css = "normal"
+
+[buildPlans.IosevkaExpanded.weights.Thin]
+shape = 100
+menu = 100
+css = 100
+
+[buildPlans.IosevkaExpanded.weights.ExtraLight]
+shape = 200
+menu = 200
+css = 200
+
+[buildPlans.IosevkaExpanded.weights.Light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.IosevkaExpanded.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.IosevkaExpanded.weights.Medium]
+shape = 500
+menu = 500
+css = 500
+
+[buildPlans.IosevkaExpanded.weights.SemiBold]
+shape = 600
+menu = 600
+css = 600
+
+[buildPlans.IosevkaExpanded.weights.Bold]
+shape = 700
+menu = 700
+css = 700
