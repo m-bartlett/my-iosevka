@@ -4,12 +4,12 @@ import toml
 plan_widths = {
     "Condensed": {
         "shape": 500,
-        "menu": 3,
+        "menu": 5,
         "css": "normal",
     },
     "Expanded": {
-        "shape": 600,
-        "menu": 7,
+        "shape": 550,
+        "menu": 5,
         "css": "normal",
     }
 }

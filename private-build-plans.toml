@@ -209,7 +209,7 @@ lig-single-arrow-bar = "without-notch"
 
 [buildPlans.IosevkaCondensed.widths.Normal]
 shape = 500
-menu = 3
+menu = 5
 css = "normal"
 
 [buildPlans.IosevkaCondensed.weights.Thin]
@@ -322,8 +322,8 @@ lig-double-arrow-bar = "without-notch"
 lig-single-arrow-bar = "without-notch"
 
 [buildPlans.IosevkaExpanded.widths.Normal]
-shape = 600
-menu = 7
+shape = 550
+menu = 5
 css = "normal"
 
 [buildPlans.IosevkaExpanded.weights.Thin]

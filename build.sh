@@ -4,12 +4,20 @@
 
 set -o errexit
 
-PLANS=(Iosevka IosevkaCondensed IosevkaExpanded)
+PLANS=(
+   Iosevka
+   IosevkaCondensed
+   IosevkaExpanded
+)
 
 [ -d iosevka ] || git clone --depth 1 https://github.com/be5invis/Iosevka.git 'iosevka'
 cd ./iosevka
 npm i
 cp ../private-build-plans.toml .
-for plan in ${PLANS[@]}; do
+
+build_plans="${@:-${PLANS[@]}}"
+echo "Building: $build_plans"
+
+for plan in $build_plans; do
     npm run build -- ttf::$plan
 done
